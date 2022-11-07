@@ -1,0 +1,23 @@
+body {
+    background-size: cover;
+}
+
+#header {
+    width: 100%;
+}
+
+#footer {
+    background-color: chocolate;
+    color: aliceblue;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    text-align: center;
+}
+
+canvas {
+    border: 10px;
+    border-radius: 10px;
+    border-color: darkseagreen;
+    box-shadow: 5px 5px 5px rosybrown;
+}
